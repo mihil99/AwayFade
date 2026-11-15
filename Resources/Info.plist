@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDisplayName</key>
+    <string>AwayFade</string>
+    <key>CFBundleExecutable</key>
+    <string>AwayFade</string>
+    <key>CFBundleIdentifier</key>
+    <string>local.awayfade.app</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>AwayFade</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+	<string>0.4.2</string>
+    <key>CFBundleVersion</key>
+	<string>10</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>14.0</string>
+    <key>LSUIElement</key>
+    <true/>
+    <key>NSBluetoothAlwaysUsageDescription</key>
+    <string>AwayFade reads the signal strength of your connected headphones to adjust their volume by proximity.</string>
+    <key>NSHumanReadableCopyright</key>
+    <string>Created for personal use.</string>
+</dict>
+</plist>
